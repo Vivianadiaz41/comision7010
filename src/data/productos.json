@@ -1,0 +1,25 @@
+
+[
+  {
+    "id": 1,
+    "title": "Crema para el Cuerpo",
+    "description": "Crema hidratante y nutritiva para todo tipo de piel",
+    "price": 500,
+    "img": "sin imagen",
+    "code": 234543,
+    "stock": 200
+  },
+
+{"id":2,
+"title":"Protector Solar",
+"description":"Protector solar de amplio espectro SPF50",
+"price":700,"img":"sin imagen",
+"code":234547,"stock":100} ,
+{"id":3,
+"title":"Post Solar",
+"description":"Para  un acabado de  bronceado perfecto",
+"price":700,"img":"sin imagen",
+"code":234547,"stock":100
+
+}
+]
